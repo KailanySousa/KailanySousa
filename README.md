@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, sou a Kailany 👋
+
+- :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
+- :books:&nbsp;&nbsp; Cursei o **Técnico de Informática** no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a> - 3/6
+- 💼 &nbsp; Trabalhando como **Engenheira de Software Júnior** na <a href="https://web.faci.ly/">Facily</a>
+- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento mobile com **Flutter**
 
 <!--
 **KailanySousa/KailanySousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=for-the-badge&logo=ionic)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🛠 Ferramentas de Desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+
+<div>
+  <a href="https://github.com/KailanySousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KailanySousa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailanySousa&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+  
+## 🛠 Utilidades
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+## 🔍 Onde me encontrar
+
+<p align="left">
+  <a href="mailto:kailanysousag@gmail.co" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/kailany-sousa-202696191/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+
+  <a href="https://www.facebook.com/kailanysousa.g" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
+
+  <a href="https://www.instagram.com/k_ilany/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+</p>  
