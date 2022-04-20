@@ -2,7 +2,7 @@
 
 - :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
 - :books:&nbsp;&nbsp; Cursei o **Técnico de Informática** no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a> - 3/6
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a> - 4/6
 - 💼 &nbsp; Trabalhando como **Engenheira de Software Júnior** na <a href="https://web.faci.ly/">Facily</a>
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento mobile com **Flutter**
 
