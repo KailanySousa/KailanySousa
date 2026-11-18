@@ -3,7 +3,7 @@
 - :earth_asia:&nbsp; &nbsp;São Paulo - Brasil
 - :books:&nbsp;&nbsp; Cursei o **Técnico de Informática** no <a href="https://jandira.sp.senai.br/">SENAI Jandira</a>
 - 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas** na <a href="http://www.fateccarapicuiba.edu.br/">FATEC Carapicuíba</a>
-- 💼 &nbsp; Trabalhando como **Engenheira de Software Senior** no [Bradesco]([https://ciandt.com/br/pt-br/home](https://banco.bradesco/html/classic/index.shtm))
+- 💼 &nbsp; Trabalhando como **Engenheira de Software Senior** no [Bradesco](https://banco.bradesco/html/classic/index.shtm)
 
 <!--
 **KailanySousa/KailanySousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
